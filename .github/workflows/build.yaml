@@ -1,4 +1,4 @@
-name: Build View Booster Server
+name: Build Docker Image
 
 on:
   push:
