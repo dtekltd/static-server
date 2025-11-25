@@ -38,6 +38,6 @@ PORT=8080 go run main.go
 ## Build
 
 ```bash
-go build -o statics-server
-./statics-server
+go build -o static-server
+./static-server
 ```
